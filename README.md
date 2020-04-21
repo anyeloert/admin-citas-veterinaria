@@ -1,3 +1,8 @@
+Tecnologías utilizadas:
+-Axios
+-Materialize
+-Google Fonts
+
 Link proyecto= https://compassionate-fermi-3d71b4.netlify.com
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
